@@ -10,5 +10,17 @@ git clone https://github.com/rajnikantmahato/download-ngrok
 
 
 cd download-ngrok
+
+
+
+
+
 move to kali on termux ngrok
+
+
+
+
+Typ
+
+
 sh install.sh
